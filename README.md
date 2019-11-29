@@ -1,7 +1,7 @@
 # HelloGithub
 The first try by myself
 ## Test Code
-```bash
+```vba
 Function PopupShowStr(string)
  Dim WshShell
  Set WshShell = WScript.CreateObject("WScript.Shell")
